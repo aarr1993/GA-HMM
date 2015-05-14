@@ -1,0 +1,2 @@
+menu-based CLI: wrapperGA.pl, depends on GA.pm and functionalGA.pl
+Curses-based CLI: wrapper_curses.pl, depends on functionalGA.pl
