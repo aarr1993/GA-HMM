@@ -45,7 +45,7 @@ my @small = @sort[$iter..(@sort - 1)];
 
 my $third_median = int(@small / 2); 
 
-#print "file median is $small[$third_median]\n";
+print "file median is $small[$third_median]\n";
 
 my $shift = 10/$small[$third_median];
 @small = ();
